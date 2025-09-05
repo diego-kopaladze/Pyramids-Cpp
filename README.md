@@ -27,9 +27,3 @@ A C++ console application that lets you print 15 different pyramid and pattern s
 14. Alphabet Pyramid
 15. Continuous Alphabet Pyramid
 
-## How to Compile
-
-Make sure you have a C++17 compatible compiler (g++ or clang++).
-
-```bash
-g++ -std=c++17 patterns.cpp -o patterns
